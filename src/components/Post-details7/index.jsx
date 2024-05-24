@@ -47,7 +47,7 @@ const PostDetails7 = () => {
                         Residents also have access to a clubhouse featuring amenities such as a pool, indoor game area, and gym. These facilities provide opportunities for fun, stress relief, and quality time with loved ones.
                         </p>
                         <p >
-                        By aligning our design with our pedagogical principles, we've created an environment that supports academic excellence and fosters student engagement. This setting encourages students to meet new people and gain valuable experiences, ultimately leading to personal growth.
+                        By aligning our design with our pedagogical principles, we&apos;ve created an environment that supports academic excellence and fosters student engagement. This setting encourages students to meet new people and gain valuable experiences, ultimately leading to personal growth.
                         </p>
                        
 {/* 
