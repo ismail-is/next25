@@ -39,7 +39,7 @@ const PostDetails6 = () => {
                       <div className="cont">
                         <div className="spacial">
                           <p>
-                          In planning the Pasal development, we've structured the project into two phases to meet immediate needs while allowing flexibility for future growth. Phase 1 focuses on developing the building up to the 'Lung space,' addressing the urgent requirement for space. Phase 2 will see the completion of the remaining building as needs arise, allowing for a more relaxed and adaptive approach.
+                          In planning the Pasal development, we&apos;ve structured the project into two phases to meet immediate needs while allowing flexibility for future growth. Phase 1 focuses on developing the building up to the Lung space, addressing the urgent requirement for space. Phase 2 will see the completion of the remaining building as needs arise, allowing for a more relaxed and adaptive approach.
 
                           </p>
                         </div>
@@ -100,7 +100,7 @@ that ‘breathes’.
                         <br/>
                         <br/>
                          <div className="container" >
-        <div className="main-header text-center ">
+        <div className="main-header text-center">
           <h3 style={{textTransform:'uppercase'}}>Projects</h3>
           <div className="tex-bg">Work</div>
         </div>
